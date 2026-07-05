@@ -12,7 +12,6 @@ A sophisticated LLM-based chat application designed to address language barriers
 
 ![Application UI](https://i.postimg.cc/gJ5j0sYL/Screenshot-2024-09-01-at-12-25-24-AM.png)
 
-**[View Full Demo Video](https://youtu.be/_i8WKbTXojM)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 > Breaking down language barriers in global enterprises with AI-powered translation and intelligent assistance
 
-A sophisticated LLM-based chat application designed to address language barriers and workplace inefficiencies in large, multilingual organizations. Developed as part of the 1st edition of the [Aya Expedition](https://www.youtube.com/watch?v[...]), this application leverages multi-agent architecture to provide seamless communication across language boundaries.
+A sophisticated LLM-based chat application designed to address language barriers and workplace inefficiencies in large, multilingual organizations.This application leverages multi-agent architecture to provide seamless communication across language boundaries.
 
 ---
 
